@@ -246,3 +246,12 @@
       font-size: 15px;
     }
   }
+
+@media (max-width:600px){
+    .hotbar{
+        background-color: #FAFAFA;
+        height: 550px;
+        font-family: 'Montserrat', sans-serif;
+        padding-top: 50px;
+    }
+}
